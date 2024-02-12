@@ -1,0 +1,31 @@
+news 
+
+Aim is to provide users with personalized news reading experience
+based on their interest
+
+Possible features
+
+API
+- News from trusted sources like bbc,aljazera,bloomberg,businessinsider,buzzfeed.
+- Sorting based on company name
+- Language and country(location) and topic filter
+- Date,Time,Popularity filter
+- Real Time Weather Details
+
+
+- Dynamic layout for articles
+- Feedback / Rating- Store in database
+
+
+- Quiz
+- Audio 
+- offline storage
+- Topic analysis
+- Bookmarks
+- Sharing
+- Notification
+- Web Scraping
+
+ 
+
+ 
